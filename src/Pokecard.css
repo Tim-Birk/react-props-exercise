@@ -1,0 +1,20 @@
+.Pokecard {
+  background-color: rgb(214, 214, 214);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Pokecard-title {
+  color: blue;
+  margin-bottom: 0;
+}
+
+.Pokecard-type {
+  margin: 0;
+}
+
+.Pokecard-exp {
+  margin-top: 5px;
+}
